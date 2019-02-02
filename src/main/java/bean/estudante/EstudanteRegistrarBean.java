@@ -1,10 +1,13 @@
 package bean.estudante;
 
-public class EstudanteRegistrarBean {
+import javax.inject.Named;
+import java.io.Serializable;
+@Named
+public class EstudanteRegistrarBean implements Serializable {
 
 
 
 
 
-    
+
 }
